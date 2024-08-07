@@ -1,0 +1,11 @@
+{
+  "name": "pis-erp-backed",
+  "version": "1.0.0",
+  "description": "Backend for PIS ERP applicatiion",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devansh Sati",
+  "license": "ISC"
+}
